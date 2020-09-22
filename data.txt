@@ -1,0 +1,22 @@
+,1,!DOCTYPE,!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">,@,0
+,1,A HREF,A HREF=""></A>,8,0
+%1%HTML%HTML></HTML>%5%0
+,2,Non-Breaking Space;,&nbsp;,@,1
+,1,HEAD,head></head>,5,0
+,1,BODY,body></body>,5,0
+,1,TITLE,title></title>,6,0
+,1,PRE,pre></pre>,4,0
+,1,H1,hl></hl>,3,0
+,1,H6,h6></h6>,3,0
+,1,B,b></b>,2,0
+,1,I,i></i>,2,0
+,1,TT,tt></tt>,3,0
+,1,CITE,cite></cite>,5,0
+,1,EM,em></em>,3,0
+,1,STRONG,strong></strong>,7,0
+,1,FONT SIZE,font size=></font>,10,0
+,1,TABLE,table></table>,6,0
+,1,TR,tr></tr>,3,0
+,1,TD,td></td>,3,0
+,1,TH,th></th>,3,0
+,2,@,&#64;,@,1
